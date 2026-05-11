@@ -1,8 +1,7 @@
-👋 Hi, I'm Lina!
+ Hi, I'm Lina!
 
 
-
-🚀 About Me
+About Me
 
 I'm a third-year Computer Science student at CERI Avignon, France, passionate about Networks, Systems, Cybersecurity, and Cloud Infrastructure.
 
@@ -10,9 +9,9 @@ I’m particularly interested in incident analysis, vulnerability management, ne
 
 I enjoy learning new technologies and developing practical skills through academic and personal cybersecurity projects.
 
-📍 Based in France
+ Based in France
 
-💻 Projects i worked on :
+Projects i worked on :
 
 • Security Incident Detection: Analysis of system and network logs to detect suspicious activities and anomalies.
 
@@ -20,7 +19,7 @@ I enjoy learning new technologies and developing practical skills through academ
 
 • Monitoring Platform: Development of a client/server monitoring system for anomaly detection and alert generation.
 
-🌱 Currently improving my skills in:
+ Currently improving my skills in:
 - Cybersecurity
 - Cloud & Infrastructure
 - Network Security
@@ -29,7 +28,7 @@ I enjoy learning new technologies and developing practical skills through academ
 
 
 
-🛠️ Technologies & Tools
+ Technologies & Tools
 
 • Python  
 • Bash  
@@ -48,7 +47,7 @@ I enjoy learning new technologies and developing practical skills through academ
 
 
 
-🔐 Areas of Interest
+ Areas of Interest
 
 • Cybersecurity  
 • SOC & Incident Detection  
