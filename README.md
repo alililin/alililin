@@ -45,9 +45,6 @@ I enjoy learning new technologies and developing practical skills through academ
 • TCP/IP  
 • DNS  
 • DHCP  
-• Git  
-• MySQL  
-• PostgreSQL
 
 
 
